@@ -1,0 +1,133 @@
+body, html {
+    padding:0;
+    margin:0;
+}
+h1 {
+    font-size: 70px;
+    font-weight: bold;
+    color: #1A1A1A;
+    letter-spacing: -10px;
+    margin: 0;
+    padding: 0;
+    line-height: 120%;
+}
+h2 {
+    font-size : 30px;
+    color: #C01A1A;
+    letter-spacing: -0.2px;
+    margin: 0;
+    padding: 0;
+}
+h3 {
+    font-size: 50px;
+    font-weight: bold;
+    color: #1A1A1A;
+    letter-spacing: -0.2px;
+    margin: 0;
+    padding: 0;
+}
+h4{
+    color: #C01A1A;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h5 {
+    font-size: 70px;
+    font-weight: bold;
+    color: #1A1A1A;
+    margin: 0;
+    padding: 0;
+    line-height: 120%;
+}
+p {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+.para {
+    font-size: 18px;
+    color: #1A1A1A;
+    letter-spacing: -0.5px;
+    margin: 0;
+    padding: 0;
+    /* text-indent: 50px; */
+}
+
+#onepage {
+    height: 2000px;
+}
+section {
+    /* box-sizing:border-box; */
+    /* color:#fff; */
+    font-size:24px;
+    text-align:center;}
+.s1 {
+    background-image: url(./contetnts/img/bg_01.png);
+    background-size: cover;
+    background-position: center;
+}
+.s2 {
+    background-image: url(./contetnts/img/bg_02.png);
+    background-size: cover;
+    background-position: center;
+}
+.s3 {
+    background-image: url(./contetnts/img/bg_03.png);
+    background-size: cover;
+    background-position: center;
+}
+.s4 {
+    background-image: url(./contetnts/img/bg_04.png);
+    background-size: cover;
+    background-position: center;
+}
+.left_01 {
+    width: 50%;
+    text-align: left;
+    float: left;
+    padding: 270px 0 0 150px;
+}
+.right_01 {
+    width: 50%;
+    text-align: left;
+    float: left;
+}
+.phone_01 {
+    position: absolute;
+    left : 50%;
+    top: 5%;
+}
+.phone_02 {
+    position: absolute;
+    left : 72%;
+    top: 15%;
+}
+.screen_01 {
+    width: 350px;
+}
+.left_02 {
+    width: 60%;
+    float: left;
+    margin : 150px 0 0 0;
+}
+.right_02 {
+    width: 40%;
+    text-align: left;
+    float: left;
+    padding: 350px 0 0 0;
+}
+.left_03 {
+    width: 100%;
+}
+.phone03 {
+    width: 50%;
+    padding-top: 50px;
+    padding-left: 270px;
+}
+.last {
+    width: 100%;
+    padding-top: 350px;
+}
